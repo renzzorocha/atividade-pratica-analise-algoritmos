@@ -1,0 +1,17 @@
+﻿Testando com 5000 elementos:
+Bubble Sort: Tempo médio = 201.394 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 99.519 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 64.280 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 2.752 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 3.317 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2.750 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 3.321 ms, Memória usada = 0 bytes
+Testando com 10000 elementos:
+Bubble Sort: Tempo médio = 831.015 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 398.838 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 263.248 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 5.758 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 6.369 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 7.240 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 6.684 ms, Memória usada = 0 bytes
+Testando com 15000 elementos:

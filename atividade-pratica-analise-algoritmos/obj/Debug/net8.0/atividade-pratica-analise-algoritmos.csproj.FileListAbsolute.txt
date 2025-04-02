@@ -1,0 +1,14 @@
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\bin\Debug\net8.0\atividade-pratica-analise-algoritmos.exe
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\bin\Debug\net8.0\atividade-pratica-analise-algoritmos.deps.json
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\bin\Debug\net8.0\atividade-pratica-analise-algoritmos.runtimeconfig.json
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\bin\Debug\net8.0\atividade-pratica-analise-algoritmos.dll
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\bin\Debug\net8.0\atividade-pratica-analise-algoritmos.pdb
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.AssemblyInfoInputs.cache
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.AssemblyInfo.cs
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.dll
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\refint\atividade-pratica-analise-algoritmos.dll
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.pdb
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\atividade-pratica-analise-algoritmos.genruntimeconfig.cache
+C:\Users\renzzo\Desktop\atividade-pratica-analise-algoritmos\atividade-pratica-analise-algoritmos\obj\Debug\net8.0\ref\atividade-pratica-analise-algoritmos.dll
