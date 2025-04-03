@@ -27,11 +27,6 @@ Nesta atividade, foram utilizadas as seguintes tecnologias:
 - IDE: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 - SDK: <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/8.0">.NET 8.0</a>
 
-<h2 id=autor>😎 Autor</h2>
+<h2 id=autor>🧑‍💻 Autor</h2>
 
-Developed by Renzzo Rocha</a>
-
-<h2 id=licenca>🆓 Licença</h2>
-
-View the license for this project 
-<a href="https://github.com/danhpaiva/EncryptAesNet-console-app-csharp/blob/main/LICENSE" target="_blank">MIT</a>
+Desenvolvido por: Renzzo Rocha</a>
