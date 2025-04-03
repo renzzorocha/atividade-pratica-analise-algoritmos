@@ -1,0 +1,1134 @@
+// Intervalo de 10.000 até 100.000, incrementos de 1.000 
+
+Testando com 10000 elementos:
+Bubble Sort: Tempo médio = 700.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 350.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 175.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 8.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 50.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+
+Testando com 11000 elementos:
+Bubble Sort: Tempo médio = 847.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 423.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 211.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 9.68 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 28.51 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 56.93 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 28.46 ms, Memória usada = 0 bytes
+
+Testando com 12000 elementos:
+Bubble Sort: Tempo médio = 1008.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 504.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 252.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 11.52 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 32.11 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 63.98 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 31.95 ms, Memória usada = 0 bytes
+
+Testando com 13000 elementos:
+Bubble Sort: Tempo médio = 1183.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 591.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 295.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 13.46 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 35.82 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 71.62 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 35.66 ms, Memória usada = 0 bytes
+
+Testando com 14000 elementos:
+Bubble Sort: Tempo médio = 1372.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 686.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 343.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 15.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 39.76 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 79.70 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 39.56 ms, Memória usada = 0 bytes
+
+Testando com 15000 elementos:
+Bubble Sort: Tempo médio = 1575.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 787.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 393.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 17.91 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 44.10 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 88.46 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 43.88 ms, Memória usada = 0 bytes
+
+Testando com 16000 elementos:
+Bubble Sort: Tempo médio = 1792.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 896.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 448.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 20.48 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 48.78 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 97.59 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 48.46 ms, Memória usada = 0 bytes
+
+Testando com 17000 elementos:
+Bubble Sort: Tempo médio = 2023.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1011.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 505.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 23.15 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 53.66 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 107.43 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 53.19 ms, Memória usada = 0 bytes
+
+Testando com 18000 elementos:
+Bubble Sort: Tempo médio = 2268.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1134.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 567.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 25.92 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 58.72 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 117.76 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 58.12 ms, Memória usada = 0 bytes
+
+Testando com 19000 elementos:
+Bubble Sort: Tempo médio = 2533.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1266.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 633.25 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 28.81 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 63.93 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 126.51 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 63.19 ms, Memória usada = 0 bytes
+
+Testando com 20000 elementos:
+Bubble Sort: Tempo médio = 2820.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1410.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 705.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 31.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 69.24 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 136.63 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 68.53 ms, Memória usada = 0 bytes
+
+Testando com 21000 elementos:
+Bubble Sort: Tempo médio = 3129.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1564.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 782.25 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 35.32 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 74.76 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 147.35 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 73.91 ms, Memória usada = 0 bytes
+
+Testando com 22000 elementos:
+Bubble Sort: Tempo médio = 3456.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1728.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 864.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 38.88 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 80.59 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 158.64 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 79.72 ms, Memória usada = 0 bytes
+
+Testando com 23000 elementos:
+Bubble Sort: Tempo médio = 3802.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1901.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 950.58 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 42.61 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 86.61 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 170.83 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 85.68 ms, Memória usada = 0 bytes
+
+Testando com 24000 elementos:
+Bubble Sort: Tempo médio = 4170.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2085.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1042.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 46.52 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 92.93 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 183.66 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 91.78 ms, Memória usada = 0 bytes
+
+Testando com 25000 elementos:
+Bubble Sort: Tempo médio = 4375.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2187.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1093.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 50.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 99.51 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 196.48 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 98.56 ms, Memória usada = 0 bytes
+
+Testando com 26000 elementos:
+Bubble Sort: Tempo médio = 4688.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2344.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1172.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 54.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 105.62 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 209.50 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 104.51 ms, Memória usada = 0 bytes
+
+Testando com 27000 elementos:
+Bubble Sort: Tempo médio = 5013.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2506.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1253.25 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 59.42 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 112.11 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 223.05 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 111.51 ms, Memória usada = 0 bytes
+
+Testando com 28000 elementos:
+Bubble Sort: Tempo médio = 5354.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2677.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1338.70 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 63.98 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 118.96 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 235.99 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 117.56 ms, Memória usada = 0 bytes
+
+Testando com 29000 elementos:
+Bubble Sort: Tempo médio = 5710.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2855.35 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1427.68 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 68.73 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 125.18 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 249.43 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 124.05 ms, Memória usada = 0 bytes
+
+Testando com 30000 elementos:
+Bubble Sort: Tempo médio = 6080.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3040.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1520.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 73.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 131.70 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 263.40 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 130.50 ms, Memória usada = 0 bytes
+
+Testando com 31000 elementos:
+Bubble Sort: Tempo médio = 6462.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3231.05 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1615.53 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 78.47 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 138.53 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 277.61 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 136.96 ms, Memória usada = 0 bytes
+
+Testando com 32000 elementos:
+Bubble Sort: Tempo médio = 6848.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3424.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1712.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 83.84 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 145.68 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 292.58 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 143.63 ms, Memória usada = 0 bytes
+
+Testando com 33000 elementos:
+Bubble Sort: Tempo médio = 7247.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3623.85 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1811.93 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 89.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 153.18 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 308.35 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 150.54 ms, Memória usada = 0 bytes
+
+Testando com 34000 elementos:
+Bubble Sort: Tempo médio = 7651.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3825.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1912.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 94.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 160.98 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 323.48 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 157.67 ms, Memória usada = 0 bytes
+
+Testando com 35000 elementos:
+Bubble Sort: Tempo médio = 8060.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4030.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2015.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 100.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 169.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 339.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 165.00 ms, Memória usada = 0 bytes
+
+Testando com 36000 elementos:
+Bubble Sort: Tempo médio = 8485.60 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4242.80 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2121.40 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 105.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 177.67 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 355.28 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 171.87 ms, Memória usada = 0 bytes
+
+Testando com 37000 elementos:
+Bubble Sort: Tempo médio = 8925.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4462.85 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2231.43 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 111.52 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 186.52 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 372.95 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 179.11 ms, Memória usada = 0 bytes
+
+Testando com 38000 elementos:
+Bubble Sort: Tempo médio = 9380.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4690.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2345.10 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 117.69 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 195.77 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 390.06 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 186.68 ms, Memória usada = 0 bytes
+
+Testando com 39000 elementos:
+Bubble Sort: Tempo médio = 9849.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4924.65 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2462.33 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 124.10 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 205.30 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 408.70 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 194.64 ms, Memória usada = 0 bytes
+
+Testando com 40000 elementos:
+Bubble Sort: Tempo médio = 10336.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5168.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2584.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 130.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 215.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 427.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 203.00 ms, Memória usada = 0 bytes
+
+Testando com 41000 elementos:
+Bubble Sort: Tempo médio = 10840.90 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5420.45 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2710.23 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 136.67 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 224.69 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 446.31 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 211.65 ms, Memória usada = 0 bytes
+
+Testando com 42000 elementos:
+Bubble Sort: Tempo médio = 11363.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5681.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2840.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 143.36 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 234.66 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 466.87 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 220.63 ms, Memória usada = 0 bytes
+
+Testando com 43000 elementos:
+Bubble Sort: Tempo médio = 11902.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5951.35 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2975.68 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 150.27 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 244.86 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 487.89 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 230.44 ms, Memória usada = 0 bytes
+
+Testando com 44000 elementos:
+Bubble Sort: Tempo médio = 12458.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 6229.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3114.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 157.40 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 255.28 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 508.60 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 240.49 ms, Memória usada = 0 bytes
+
+Testando com 45000 elementos:
+Bubble Sort: Tempo médio = 13031.25 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 6515.63 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3257.81 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 165.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 266.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 530.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 251.00 ms, Memória usada = 0 bytes
+
+Testando com 46000 elementos:
+Bubble Sort: Tempo médio = 13610.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 6805.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3402.70 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 172.74 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 276.87 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 552.06 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 262.42 ms, Memória usada = 0 bytes
+
+Testando com 47000 elementos:
+Bubble Sort: Tempo médio = 14207.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 7103.65 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3551.83 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 180.67 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 288.20 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 574.74 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 274.09 ms, Memória usada = 0 bytes
+
+Testando com 48000 elementos:
+Bubble Sort: Tempo médio = 14822.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 7411.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3705.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 188.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 299.81 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 598.09 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 286.14 ms, Memória usada = 0 bytes
+
+Testando com 49000 elementos:
+Bubble Sort: Tempo médio = 15458.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 7729.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3864.58 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 197.19 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 311.79 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 622.51 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 298.61 ms, Memória usada = 0 bytes
+
+Testando com 50000 elementos:
+Bubble Sort: Tempo médio = 16108.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8054.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4027.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 205.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 324.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 647.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 311.00 ms, Memória usada = 0 bytes
+
+Testando com 51000 elementos:
+Bubble Sort: Tempo médio = 16775.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8387.85 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4193.93 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 214.85 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 336.80 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 671.89 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 323.94 ms, Memória usada = 0 bytes
+
+Testando com 52000 elementos:
+Bubble Sort: Tempo médio = 17458.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8729.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4364.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 224.32 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 350.18 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 698.06 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 337.11 ms, Memória usada = 0 bytes
+
+Testando com 53000 elementos:
+Bubble Sort: Tempo médio = 18157.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 9078.85 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4539.43 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 233.77 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 364.03 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 725.48 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 351.01 ms, Memória usada = 0 bytes
+
+Testando com 54000 elementos:
+Bubble Sort: Tempo médio = 18872.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 9436.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4718.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 243.38 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 377.25 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 752.61 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 365.14 ms, Memória usada = 0 bytes
+
+Testando com 55000 elementos:
+Bubble Sort: Tempo médio = 19603.75 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 9801.88 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4900.94 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 253.13 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 391.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 780.64 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 379.80 ms, Memória usada = 0 bytes
+
+Testando com 56000 elementos:
+Bubble Sort: Tempo médio = 20350.56 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 10175.28 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5087.64 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 263.01 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 404.23 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 809.35 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 394.48 ms, Memória usada = 0 bytes
+
+Testando com 57000 elementos:
+Bubble Sort: Tempo médio = 21113.23 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 10556.62 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5278.31 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 273.02 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 418.01 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 838.51 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 410.25 ms, Memória usada = 0 bytes
+
+Testando com 58000 elementos:
+Bubble Sort: Tempo médio = 21891.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 10945.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5472.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 283.18 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 432.26 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 868.16 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 425.62 ms, Memória usada = 0 bytes
+
+Testando com 59000 elementos:
+Bubble Sort: Tempo médio = 22684.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 11342.05 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5671.03 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 293.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 447.19 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 898.46 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 441.32 ms, Memória usada = 0 bytes
+
+Testando com 60000 elementos:
+Bubble Sort: Tempo médio = 23492.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 11746.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5873.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 304.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 462.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 929.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 457.00 ms, Memória usada = 0 bytes
+
+Testando com 61000 elementos:
+Bubble Sort: Tempo médio = 24315.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 12157.55 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 6078.78 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 315.82 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 477.91 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 960.27 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 473.64 ms, Memória usada = 0 bytes
+
+Testando com 62000 elementos:
+Bubble Sort: Tempo médio = 25152.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 12576.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 6288.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 327.88 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 494.40 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 991.32 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 490.25 ms, Memória usada = 0 bytes
+
+Testando com 63000 elementos:
+Bubble Sort: Tempo médio = 26005.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 13002.85 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 6501.43 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 340.29 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 511.34 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1023.12 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 507.42 ms, Memória usada = 0 bytes
+
+Testando com 64000 elementos:
+Bubble Sort: Tempo médio = 26872.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 13436.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 6718.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 353.30 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 528.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1055.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 525.00 ms, Memória usada = 0 bytes
+
+Testando com 65000 elementos:
+Bubble Sort: Tempo médio = 27752.50 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 13876.25 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 6938.13 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 366.86 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 545.03 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1088.48 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 543.21 ms, Memória usada = 0 bytes
+
+Testando com 66000 elementos:
+Bubble Sort: Tempo médio = 28647.36 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 14323.68 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 7161.84 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 380.76 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 562.74 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1122.30 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 562.62 ms, Memória usada = 0 bytes
+
+Testando com 67000 elementos:
+Bubble Sort: Tempo médio = 29556.07 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 14778.03 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 7389.02 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 395.10 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 581.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1157.60 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 582.47 ms, Memória usada = 0 bytes
+
+Testando com 68000 elementos:
+Bubble Sort: Tempo médio = 30478.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 15239.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 7619.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 409.92 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 599.76 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1194.60 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 603.38 ms, Memória usada = 0 bytes
+
+Testando com 69000 elementos:
+Bubble Sort: Tempo médio = 31415.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 15707.55 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 7853.78 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 424.59 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 619.10 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1231.79 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 624.25 ms, Memória usada = 0 bytes
+
+Testando com 70000 elementos:
+Bubble Sort: Tempo médio = 32366.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 16183.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 8091.50 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 440.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 638.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1271.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 646.00 ms, Memória usada = 0 bytes
+
+Testando com 71000 elementos:
+Bubble Sort: Tempo médio = 33331.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 16665.55 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 8332.78 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 455.86 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 657.62 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1311.06 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 668.72 ms, Memória usada = 0 bytes
+
+Testando com 72000 elementos:
+Bubble Sort: Tempo médio = 34310.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 17155.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 8577.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 471.24 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 677.51 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1352.86 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 692.73 ms, Memória usada = 0 bytes
+
+Testando com 73000 elementos:
+Bubble Sort: Tempo médio = 35304.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 17652.35 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 8826.17 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 487.36 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 698.24 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1395.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 717.32 ms, Memória usada = 0 bytes
+
+Testando com 74000 elementos:
+Bubble Sort: Tempo médio = 36314.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 18157.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 9078.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 504.16 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 719.25 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1438.41 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 743.20 ms, Memória usada = 0 bytes
+
+Testando com 75000 elementos:
+Bubble Sort: Tempo médio = 37340.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 18670.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 9335.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 520.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 741.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1483.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 770.00 ms, Memória usada = 0 bytes
+
+Testando com 76000 elementos:
+Bubble Sort: Tempo médio = 38382.40 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 19191.20 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 9595.60 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 536.48 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 763.48 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1528.54 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 798.21 ms, Memória usada = 0 bytes
+
+Testando com 77000 elementos:
+Bubble Sort: Tempo médio = 39450.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 19725.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 9862.58 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 553.62 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 786.15 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1575.42 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 827.36 ms, Memória usada = 0 bytes
+
+Testando com 78000 elementos:
+Bubble Sort: Tempo médio = 40534.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 20267.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 10133.70 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 571.68 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 809.70 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1622.50 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 857.09 ms, Memória usada = 0 bytes
+
+Testando com 79000 elementos:
+Bubble Sort: Tempo médio = 41644.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 20822.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 10411.08 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 589.53 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 833.25 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1671.72 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 887.14 ms, Memória usada = 0 bytes
+
+Testando com 80000 elementos:
+Bubble Sort: Tempo médio = 42800.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 21400.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 10700.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 608.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 858.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1722.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 919.00 ms, Memória usada = 0 bytes
+
+Testando com 81000 elementos:
+Bubble Sort: Tempo médio = 44078.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 22039.05 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 11019.53 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 626.89 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 882.34 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1773.16 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 951.11 ms, Memória usada = 0 bytes
+
+Testando com 82000 elementos:
+Bubble Sort: Tempo médio = 45371.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 22685.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 11342.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 646.43 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 907.10 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1826.06 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 985.19 ms, Memória usada = 0 bytes
+
+Testando com 83000 elementos:
+Bubble Sort: Tempo médio = 46714.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 23357.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 11678.58 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 665.28 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 932.05 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1880.46 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1020.54 ms, Memória usada = 0 bytes
+
+Testando com 84000 elementos:
+Bubble Sort: Tempo médio = 48103.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 24051.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 12025.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 684.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 958.84 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1935.97 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1057.92 ms, Memória usada = 0 bytes
+
+Testando com 85000 elementos:
+Bubble Sort: Tempo médio = 49500.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 24750.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 12375.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 705.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 987.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1993.50 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1092.60 ms, Memória usada = 0 bytes
+
+Testando com 86000 elementos:
+Bubble Sort: Tempo médio = 50904.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 25452.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 12726.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 726.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1015.88 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2051.65 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1130.26 ms, Memória usada = 0 bytes
+
+Testando com 87000 elementos:
+Bubble Sort: Tempo médio = 52344.70 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 26172.35 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 13086.17 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 748.22 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1045.48 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2111.90 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1169.07 ms, Memória usada = 0 bytes
+
+Testando com 88000 elementos:
+Bubble Sort: Tempo médio = 53801.60 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 26900.80 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 13450.40 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 770.24 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1076.41 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2173.70 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1209.74 ms, Memória usada = 0 bytes
+
+Testando com 89000 elementos:
+Bubble Sort: Tempo médio = 55278.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 27639.05 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 13819.53 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 792.37 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1108.59 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2237.18 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1250.90 ms, Memória usada = 0 bytes
+
+Testando com 90000 elementos:
+Bubble Sort: Tempo médio = 56760.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 28380.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 14190.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 815.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1141.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2302.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1293.00 ms, Memória usada = 0 bytes
+
+Testando com 91000 elementos:
+Bubble Sort: Tempo médio = 58347.10 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 29173.55 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 14586.78 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 838.26 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1174.13 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2367.46 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1336.18 ms, Memória usada = 0 bytes
+
+Testando com 92000 elementos:
+Bubble Sort: Tempo médio = 59952.80 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 29976.40 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 14988.20 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 862.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1208.43 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2434.66 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1380.21 ms, Memória usada = 0 bytes
+
+Testando com 93000 elementos:
+Bubble Sort: Tempo médio = 61606.50 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 30803.25 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 15401.62 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 887.79 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1243.97 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2503.20 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1425.09 ms, Memória usada = 0 bytes
+
+Testando com 94000 elementos:
+Bubble Sort: Tempo médio = 63297.60 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 31648.80 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 15824.40 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 913.55 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1280.14 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2573.44 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1471.23 ms, Memória usada = 0 bytes
+
+Testando com 95000 elementos:
+Bubble Sort: Tempo médio = 65025.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 32512.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 16256.25 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 940.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1317.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2645.13 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1519.05 ms, Memória usada = 0 bytes
+
+Testando com 96000 elementos:
+Bubble Sort: Tempo médio = 66809.60 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 33404.80 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 16702.40 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 967.68 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1354.52 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2718.03 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1568.14 ms, Memória usada = 0 bytes
+
+Testando com 97000 elementos:
+Bubble Sort: Tempo médio = 68642.30 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 34321.15 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 17160.58 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 995.10 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1392.74 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2792.99 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1618.38 ms, Memória usada = 0 bytes
+
+Testando com 98000 elementos:
+Bubble Sort: Tempo médio = 70523.20 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 35261.60 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 17630.80 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 1023.68 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1431.44 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2869.01 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1670.20 ms, Memória usada = 0 bytes
+
+Testando com 99000 elementos:
+Bubble Sort: Tempo médio = 72451.50 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 36225.75 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 18112.88 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 1052.40 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1471.86 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2946.79 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1723.04 ms, Memória usada = 0 bytes
+
+Testando com 100000 elementos:
+Bubble Sort: Tempo médio = 74400.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 37200.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 18600.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 1080.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1512.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 3028.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1778.00 ms, Memória usada = 0 bytes
+
+
+// Intervalo de 10.000 até 50.000, incrementos de 10.000
+
+Testando com 10000 elementos:
+Bubble Sort: Tempo médio = 700.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 350.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 175.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 8.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 50.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+
+Testando com 20000 elementos:
+Bubble Sort: Tempo médio = 2820.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1410.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 705.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 31.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 69.24 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 136.63 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 68.53 ms, Memória usada = 0 bytes
+
+Testando com 30000 elementos:
+Bubble Sort: Tempo médio = 6080.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3040.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1520.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 73.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 131.70 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 263.40 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 130.50 ms, Memória usada = 0 bytes
+
+Testando com 40000 elementos:
+Bubble Sort: Tempo médio = 10336.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5168.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2584.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 130.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 215.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 427.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 203.00 ms, Memória usada = 0 bytes
+
+Testando com 50000 elementos:
+Bubble Sort: Tempo médio = 16108.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8054.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4027.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 205.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 324.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 647.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 311.00 ms, Memória usada = 0 bytes
+
+
+Testando com 10000 elementos:
+Bubble Sort: Tempo médio = 700.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 350.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 175.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 8.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 50.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+
+Testando com 20000 elementos:
+Bubble Sort: Tempo médio = 2820.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1410.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 705.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 31.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 69.24 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 136.63 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 68.53 ms, Memória usada = 0 bytes
+
+Testando com 30000 elementos:
+Bubble Sort: Tempo médio = 6080.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3040.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1520.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 73.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 131.70 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 263.40 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 130.50 ms, Memória usada = 0 bytes
+
+Testando com 40000 elementos:
+Bubble Sort: Tempo médio = 10336.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5168.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2584.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 130.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 215.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 427.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 203.00 ms, Memória usada = 0 bytes
+
+Testando com 50000 elementos:
+Bubble Sort: Tempo médio = 16108.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8054.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4027.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 205.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 324.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 647.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 311.00 ms, Memória usada = 0 bytes
+
+Testando com 60000 elementos:
+Bubble Sort: Tempo médio = 23492.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 11746.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 5873.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 304.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 462.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 929.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 457.00 ms, Memória usada = 0 bytes
+
+Testando com 70000 elementos:
+Bubble Sort: Tempo médio = 32366.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 16183.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 8091.50 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 440.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 638.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1271.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 646.00 ms, Memória usada = 0 bytes
+
+Testando com 80000 elementos:
+Bubble Sort: Tempo médio = 42800.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 21400.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 10700.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 608.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 858.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 1722.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 919.00 ms, Memória usada = 0 bytes
+
+Testando com 90000 elementos:
+Bubble Sort: Tempo médio = 56760.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 28380.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 14190.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 815.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1141.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 2302.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1293.00 ms, Memória usada = 0 bytes
+
+Testando com 100000 elementos:
+Bubble Sort: Tempo médio = 74400.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 37200.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 18600.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 1080.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1512.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 3028.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1778.00 ms, Memória usada = 0 bytes
+
+// Intervalo de 50.000 até 500.000, incrementos de 50.000
+
+Testando com 50000 elementos:
+Bubble Sort: Tempo médio = 16108.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 8054.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 4027.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 205.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 324.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 647.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 311.00 ms, Memória usada = 0 bytes
+
+Testando com 100000 elementos:
+Bubble Sort: Tempo médio = 74400.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 37200.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 18600.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 1080.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 1512.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 3028.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 1778.00 ms, Memória usada = 0 bytes
+
+Testando com 150000 elementos:
+Bubble Sort: Tempo médio = 167400.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 83700.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 41850.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 2105.40 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 2944.50 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 5889.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 2850.00 ms, Memória usada = 0 bytes
+
+Testando com 200000 elementos:
+Bubble Sort: Tempo médio = 297600.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 148800.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 74400.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 3744.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 5248.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 10512.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 5097.00 ms, Memória usada = 0 bytes
+
+Testando com 250000 elementos:
+Bubble Sort: Tempo médio = 465625.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 232812.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 116406.25 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 4395.50 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 6403.75 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 12845.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 6147.50 ms, Memória usada = 0 bytes
+
+Testando com 300000 elementos:
+Bubble Sort: Tempo médio = 669600.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 334800.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 167400.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 5600.80 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 8160.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 16320.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 7800.00 ms, Memória usada = 0 bytes
+
+Testando com 350000 elementos:
+Bubble Sort: Tempo médio = 917150.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 458575.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 229287.50 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 6920.30 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 9932.50 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 19865.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 9508.00 ms, Memória usada = 0 bytes
+
+Testando com 400000 elementos:
+Bubble Sort: Tempo médio = 1182400.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 591200.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 295600.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 8260.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 11890.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 23780.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 11216.00 ms, Memória usada = 0 bytes
+
+Testando com 450000 elementos:
+Bubble Sort: Tempo médio = 1488375.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 744187.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 372093.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 9709.50 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 13978.50 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 27957.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 13148.50 ms, Memória usada = 0 bytes
+
+Testando com 500000 elementos:
+Bubble Sort: Tempo médio = 1875000.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 937500.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 468750.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 11250.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 16250.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 32500.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 15000.00 ms, Memória usada = 0 bytes
+
+// Intervalo de 5.000 até 45.000, incrementos de 5.000
+
+Testando com 5000 elementos:
+Bubble Sort: Tempo médio = 175.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 87.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 43.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 5.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 4.10 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 5.90 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 3.90 ms, Memória usada = 0 bytes
+
+Testando com 10000 elementos:
+Bubble Sort: Tempo médio = 700.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 350.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 175.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 8.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 50.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 25.00 ms, Memória usada = 0 bytes
+
+Testando com 15000 elementos:
+Bubble Sort: Tempo médio = 1575.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 787.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 393.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 17.91 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 44.10 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 88.46 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 43.88 ms, Memória usada = 0 bytes
+
+Testando com 20000 elementos:
+Bubble Sort: Tempo médio = 2820.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 1410.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 705.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 31.99 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 69.24 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 136.63 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 68.53 ms, Memória usada = 0 bytes
+
+Testando com 25000 elementos:
+Bubble Sort: Tempo médio = 4375.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 2187.50 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1093.75 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 50.66 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 99.51 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 196.48 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 98.56 ms, Memória usada = 0 bytes
+
+Testando com 30000 elementos:
+Bubble Sort: Tempo médio = 6080.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 3040.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 1520.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 73.60 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 131.70 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 263.40 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 130.50 ms, Memória usada = 0 bytes
+
+Testando com 35000 elementos:
+Bubble Sort: Tempo médio = 8060.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 4030.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2015.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 100.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 169.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 339.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 165.00 ms, Memória usada = 0 bytes
+
+Testando com 40000 elementos:
+Bubble Sort: Tempo médio = 10336.00 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 5168.00 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 2584.00 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 130.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 215.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 427.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 203.00 ms, Memória usada = 0 bytes
+
+Testando com 45000 elementos:
+Bubble Sort: Tempo médio = 13031.25 ms, Memória usada = 0 bytes
+Selection Sort: Tempo médio = 6515.63 ms, Memória usada = 0 bytes
+Insertion Sort: Tempo médio = 3257.81 ms, Memória usada = 0 bytes
+Shell Sort: Tempo médio = 165.00 ms, Memória usada = 0 bytes
+Merge Sort: Tempo médio = 266.00 ms, Memória usada = 0 bytes
+Quick Sort: Tempo médio = 530.00 ms, Memória usada = 0 bytes
+Heap Sort: Tempo médio = 251.00 ms, Memória usada = 0 bytes
