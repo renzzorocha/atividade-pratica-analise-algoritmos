@@ -867,6 +867,7 @@ Merge Sort: Tempo médio = 324.00 ms, Memória usada = 0 bytes
 Quick Sort: Tempo médio = 647.00 ms, Memória usada = 0 bytes
 Heap Sort: Tempo médio = 311.00 ms, Memória usada = 0 bytes
 
+// Intervalo de 10.000 até 100.000, incrementos de 10.000
 
 Testando com 10000 elementos:
 Bubble Sort: Tempo médio = 700.00 ms, Memória usada = 0 bytes
